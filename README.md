@@ -2,13 +2,13 @@
 <h3 align="center">Apaixonado por segurança da informação</h3>
 
 
-- 🔭 Atualmente estou cursando segurança da informação do segundo período na FAM.
+- 🔭 Atualmente cursando Segurança da Informamção
 
 - 🤝 Estou a disposição de colaborar com projetos ethical hacking e projetos de pentesting para que se faça da internet um local mais seguro.
 
-- 🌱 Atualmente em paralelo com o curso de segurança estou aprendendo DevWeb, Phyton e RedHat Administration.
+- 🌱 Atualmente em paralelo com o curso de segurança estou aprendendo Phyton e serviços RedHat.
 
-- 📫 Entre em contato comigo pelo e-mail: j.v_xaves@yahoo.com
+- 📫 Entre em contato comigo pelo e-mail: joaovitorsec@gmail.com
 
 - 📄 Conenheça minhas experiências em: https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-coelho-chaves-825571193/
 
