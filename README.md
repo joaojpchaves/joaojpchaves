@@ -2,7 +2,7 @@
 <h3 align="center">Apaixonado por segurança da informação</h3>
 
 
-- 🔭 Atualmente cursando Segurança da Informamção
+- 🔭 Atualmente cursando Segurança da Informamção.
 
 - 🤝 Estou a disposição de colaborar com projetos ethical hacking e projetos de pentesting para que se faça da internet um local mais seguro.
 
